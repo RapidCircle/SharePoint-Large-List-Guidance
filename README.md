@@ -3,4 +3,4 @@
 # SharePoint-Large-List-Guidance #
 This documentation provides a detailed look at the limitations, the management, and the maintenance of large lists (>5,000 items) on Office 365.
 
-It can be found in the wiki section of this repository [here](./wiki).
+It can be found in the wiki section of this repository [here](../../wiki).
