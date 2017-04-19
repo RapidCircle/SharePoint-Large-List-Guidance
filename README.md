@@ -1,4 +1,4 @@
-![Rapid Circle](https://github.com/RapidCircle/SharePoint-Large-List-Guidance/blob/master/logo.png =100x)
+<img src="https://github.com/RapidCircle/SharePoint-Large-List-Guidance/blob/master/logo.png" alt="Drawing" style="width: 100px;"/>
 
 # SharePoint-Large-List-Guidance
 Guidance about how to manage large lists in SharePoint and some ideas around how to prevent them.
